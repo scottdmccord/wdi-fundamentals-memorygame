@@ -30,6 +30,11 @@ nav {
 	margin: 8%;
 }
 
+.img {
+	height: 200px;
+	width: 150px;
+}
+
 .navi {
 	text-decoration: none;
 	color: white;
